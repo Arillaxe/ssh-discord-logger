@@ -1,0 +1,16 @@
+{
+  "name": "ssh-discord-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "config": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
